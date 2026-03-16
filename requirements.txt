@@ -6,3 +6,6 @@ lxml
 sentence-transformers
 scikit-learn
 numpy
+groq
+groq
+python-dotenv
