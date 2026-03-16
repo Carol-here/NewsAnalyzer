@@ -1,0 +1,8 @@
+feedparser
+requests
+beautifulsoup4
+trafilatura
+lxml
+sentence-transformers
+scikit-learn
+numpy
